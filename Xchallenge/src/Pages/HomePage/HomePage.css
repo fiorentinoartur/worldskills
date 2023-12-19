@@ -1,0 +1,41 @@
+.homeflex {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px 0;
+    gap: 50px;
+
+}
+
+.worldConnect {
+    width: 400px;
+    height: 330px;
+}
+
+.firstPart {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    text-align: start;
+}
+
+.firstPart h1 {
+    text-transform: uppercase;
+    font-size: 36px;
+}
+
+.firstPart p {
+    font-size: 24px;
+    line-height: 45px;
+    text-align: justify;
+    width: 500px;
+}
+
+.btnLogin {
+    width: 170px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3B0C59;
+    color: white;
+    cursor: pointer;
+}

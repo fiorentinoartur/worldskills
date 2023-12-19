@@ -1,0 +1,18 @@
+.resultpage{
+    margin: 50px 0;
+}
+.select-flex{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    justify-content: space-between;
+}
+.select__item{
+    width: 30%;
+}
+.select-result{
+    background-color: #F2EEEE;
+    border-radius: 15px;
+    padding: 10px;
+    height: 40px;
+}

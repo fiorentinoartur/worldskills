@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Bebas-Neue;
+    src: url(../../Assets/Fonts/Bebas/BebasNeue-Regular.ttf);
+}
+
+.footer-page {
+    font-family: Bebas-Neue;
+    font-size: 30px;
+    background-color: #3B0C59;
+    position: absolute;
+    width: 100vw;
+    bottom: 0;
+    font-size: 1rem;
+}
+
+.footer-page__rights {
+    text-align: center;
+    color: white;
+
+}
+
+

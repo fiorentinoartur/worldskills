@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+
+    height: 85px;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav__items
+{
+    display: flex;
+    gap: 20px;
+}
+.worldlogo__image{
+    width: 130px;
+    height: 85px;
+}
+.nav__item{
+    text-decoration: none;
+    color: white;
+}

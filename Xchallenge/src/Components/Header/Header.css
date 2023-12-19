@@ -1,0 +1,23 @@
+header{
+    background-color:#3B0C59 ;
+    width: 100%;
+
+}
+.header-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-login
+{
+    height: 42px;
+    width: 134px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: white;
+}
+.logo{
+    width: 150px;
+    height: 100px;
+}
